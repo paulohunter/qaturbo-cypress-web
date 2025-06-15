@@ -1,0 +1,23 @@
+{
+  "name": "qaturbo-cypress-web",
+  "version": "1.0.0",
+  "description": "Bootcamp QATURBO da QAzando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulohunter/qaturbo-cypress-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulohunter/qaturbo-cypress-web/issues"
+  },
+  "homepage": "https://github.com/paulohunter/qaturbo-cypress-web#readme",
+  "dependencies": {
+    "cypress": "^14.4.1"
+  }
+}
